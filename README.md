@@ -1,4 +1,4 @@
-## zoo example
+# Flyo Nitro Laravel Example
 
 localhost:8004 see .env APP_PORT
 
@@ -21,3 +21,7 @@ localhost:8004 see .env APP_PORT
     }
 ]
 ```
+
+## Documentation
+
+[Read More in the Docs](https://dev.flyo.cloud/nitro/php)
